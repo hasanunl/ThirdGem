@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+This gem has two methods for use. To use them call WhoIs class and use it's awesome? method or who("your name here") method. 
 
 ## Development
 

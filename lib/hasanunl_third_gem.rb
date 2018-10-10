@@ -1,6 +1,5 @@
 require "hasanunl_third_gem/version"
 
-module HasanunlThirdGem
   class WhoIs
     def self.awesome?
       puts "YOU ARE AWESOME!!"
@@ -9,4 +8,3 @@ module HasanunlThirdGem
       puts me
     end
   end
-end
